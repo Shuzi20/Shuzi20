@@ -60,23 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shuzi20&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuzi20&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Shuzi20/Shuzi20/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📬 Contact Me
 
 📧 [bhanot.shruti.20@gmail.com](mailto:bhanot.shruti.20@gmail.com)  
