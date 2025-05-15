@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Shuzi20/Shuzi20/assets/banner-image.png" alt="Shruti Bhanot | Data Analyst & Software Engineer" />
+</p>
+
 # 👋 Hi, I'm Shruti Bhanot
 
 📊 Data Analyst | 🖥️ Software Configuration Enthusiast | 💻 Python Developer  
