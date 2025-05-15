@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shruti Bhanot</h1>
-<p align="center">Data Analyst | Software Configuration | Python Developer</p>
+<p align="center">Data Analyst | Software Configuration | AI & RAG Explorer | Python Developer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shruti-bhanot/">
@@ -29,11 +29,43 @@
 
 ---
 
+## 📊 Shruti's Data & AI Impact Metrics
+
+| Metric | Value |
+|-------|-------|
+| Projects Completed | 10+ |
+| Datasets Analyzed | 15+ |
+| Models Built (ML / LLM / RAG) | 8 |
+| AI Apps Deployed | 2 |
+| Data Processed | 25+ million records |
+| Tools Mastered | Python, SQL, Power BI, AWS, Streamlit, LLM pipelines |
+| Ongoing Learning Hours | 500+ hrs (Data + AI) |
+
+---
+
+## 📈 Skill Progress Chart
+
+<p align="center">
+  <img src="https://github.com/Shuzi20/Shuzi20/assets/skill-progress-chart.png" alt="Skill Progress Chart" width="500" />
+</p>
+
+*Note: Replace the image link with your own customized progress chart!*
+
+---
+
+## 🤖 My AI & LLM Journey
+
+- ✅ Built AI-powered news summarization & Hindi TTS app (LLM + gTTS)
+- ✅ Explored Retrieval-Augmented Generation (RAG) pipelines with OpenSearch + LLM
+- ✅ Currently experimenting with AI chatbots using RAG + LangChain + OpenAI APIs
+- 🎯 Goal: Build scalable AI assistants for real-world business automation
+
+---
+
 ## 📝 Featured Projects
 
 ### 📰 [News Summarization & Hindi TTS App](https://github.com/Shuzi20/News-Summarization-Hindi-TTS-App)
-> Real-time news fetch, summary, sentiment analysis, and Hindi audio generation using Streamlit, GNews API, VADER, KeyBERT, and gTTS.  
-👉 [Live demo ➡️](https://huggingface.co/spaces/Shuzi24/News_Summarization_and_Hindi_TTS_App)
+> Real-time news fetch, summary, sentiment analysis, and Hindi audio generation using Streamlit, GNews API, VADER, KeyBERT, and gTTS.
 
 ### 📊 [Time On Site Analysis](https://github.com/Shuzi20/Time-on-site-analysis)
 > Session analysis on an e-commerce platform: bounce rates, heatmaps, A/B testing, and user engagement metrics:contentReference[oaicite:0]{index=0}.
@@ -57,23 +89,6 @@
 - Power BI for Data Analyst (VOIS)
 - Advanced Excel (Udemy)
 - Machine Learning (Udemy)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shuzi20&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuzi20&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Shuzi20/Shuzi20/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
