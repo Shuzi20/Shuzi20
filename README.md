@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shruti Bhanot</h1>
-<p align="center">Data Analyst | Software Configuration | Python Developer</p>
+<p align="center">Data Analyst | Data Engineer | Data Scientist</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shruti-bhanot/">
