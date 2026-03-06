@@ -145,11 +145,11 @@ Predictive CLV models with **R² = 1.0** and customer segmentation for targeted 
 
 <div align="center">
 
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuzi20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff)
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuzi20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuzi20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuzi20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shuzi20&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shuzi20&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff)
 
 </div>
 
