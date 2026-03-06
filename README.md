@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-bhanot)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shuzi20)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanot.shruti.20@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shuzi20&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Shuzi20)
 
 </div>
 
@@ -145,9 +144,6 @@ Predictive CLV models with **R² = 1.0** and customer segmentation for targeted 
 
 <div align="center">
 
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuzi20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuzi20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shuzi20&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff)
 
